@@ -18,6 +18,7 @@
 
 	Value benar = 123 selain itu akan salah
 	
+![get](https://user-images.githubusercontent.com/54275103/95645926-bc714980-0aed-11eb-8e0a-42de05f880a8.png)
 	
 
 
