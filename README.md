@@ -30,7 +30,7 @@
 	url = /coba/
 	exampleurl = http://127.0.0.1:8000/coba/ 
 	
-	![POST](https://user-images.githubusercontent.com/54275103/95645853-2a694100-0aed-11eb-8187-7ede17aa38fd.png)
+![POST](https://user-images.githubusercontent.com/54275103/95645853-2a694100-0aed-11eb-8187-7ede17aa38fd.png)
 
 	
 	
